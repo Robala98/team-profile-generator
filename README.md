@@ -29,3 +29,9 @@ To run the tests, run npm test in the root.
 ## Video Walkthrough
 
 ![Walkthrough](teamprofile.mov.zip)
+
+## Screenshots
+
+![test](test.jpg)
+
+![example](example.jpg)
