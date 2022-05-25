@@ -2,7 +2,7 @@
 
 ## Description
 
-This application is supposed to use the command line to allow the user to add information to profile cards for access to their email and Github pages.
+This application uses the command line to allow the user to create user profiles for employees.
 
 ## Install
 
@@ -22,4 +22,10 @@ Inquirer
 Jest
 Git
 
-## 
+## Test
+
+To run the tests, run npm test in the root.
+
+## Video Walkthrough
+
+![Walkthrough](teamprofile.mov.zip)
